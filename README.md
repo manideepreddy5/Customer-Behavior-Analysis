@@ -1,5 +1,5 @@
 # Customer Behavior Analysis
-End-to-End Customer Behavior Analysis using Python, SQL, and Power BI to generate actionable business insights.
+End-to-End Customer Behavior Analysis using Python, SQL, and Power-BI to generate actionable business insights.
 
 # Dashboard Preview
 <img width="1332" height="738" alt="Screenshot 2026-03-16 201937" src="https://github.com/user-attachments/assets/7c937555-da3f-4e86-892c-42e83fbfc94f" />
